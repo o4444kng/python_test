@@ -1,0 +1,1 @@
+[{"name": "\u9648\u67cf", "age": 22, "score": 111}, {"name": "cb", "age": 12, "score": 120}, {"name": "chenbai", "age": 13, "score": 130}]
